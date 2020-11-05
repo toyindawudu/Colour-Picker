@@ -2,3 +2,8 @@
   margin: 0;
   padding: 0;
 }
+
+.container--card {
+  background: pink;
+  padding: 0px 30px 60px;
+}
